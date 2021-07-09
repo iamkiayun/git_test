@@ -9,9 +9,13 @@ this line created local
 this line created on remote 
 
 
-<<<<<<< HEAD
+
 this line created local
-=======
+
 
 this line created on remote
->>>>>>> 9779489 (Update 210710_test_created in local.txt)
+
+this line created local
+
+this line created on remote
+
